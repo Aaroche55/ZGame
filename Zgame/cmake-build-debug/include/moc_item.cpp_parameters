@@ -1,0 +1,5 @@
+-IC:/Users/aaroc/CLionProjects/Zgame/include
+-DWIN32
+-o
+C:/Users/aaroc/CLionProjects/Zgame/cmake-build-debug/include/moc_item.cpp
+C:/Users/aaroc/CLionProjects/Zgame/include/item.h
